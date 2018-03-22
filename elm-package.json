@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "summary": "The Nirum runtime library for Elm",
+    "repository": "https://github.com/spoqa/elm-nirum.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Nirum.Primitives"
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
